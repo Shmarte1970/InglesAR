@@ -1,4 +1,5 @@
 
+
 export class Question{
 
     /**
@@ -8,10 +9,10 @@ export class Question{
      * @param {string} answer respuesta correcta
      */
 
-    constructor(text, choise, answer)
+    constructor(text, choices, answer)
     {
-    this.text = preguntas;
-    this.choices  = choise;
+    this.text = text;
+    this.choices  = choices;
     this.answer = answer;
     }
 

@@ -3,8 +3,8 @@
 export const data = [
 
     {
-        preguntas:'How is the past simple verb -B E A T-',
-        choices:[
+        question:'B E A T',
+        choise:[
             'bent',
             'beat',
             'bet'
@@ -14,8 +14,8 @@ export const data = [
     },
 
     {
-        preguntas:'How is the past simple verb -L O S E-',
-        choices:[
+        question:'L O S E',
+        choise:[
             'lost',
             'lose',
             'let'

@@ -1,5 +1,19 @@
-import {data} from '../data/data.js'
+import {questions} from '../data/questions.js'
+import {Quiz} from '../models/Quiz.js'
+import {UI} from '../models/UI.js'
 
-import '../models/question.js';
+function main() {
+    const quiz = new Quiz(questions)
+    const ui = new UI()
 
-console.log(data);
+    ui.showQuestion(quiz.getQuestionIndex().text);
+    ui.showChoices('ccvxvxcvcx','xcvxvcxvx','xcvcvxv');
+
+
+
+    //console.log(quiz);
+}
+
+main();
+
+
