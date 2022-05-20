@@ -21,7 +21,7 @@ export class Question{
      * @param {string} choice respuesta
      * @returns {boolean} return si es correcto o no 
      */
-    correrrespuest(choice){
+     correctAnswer(choice){
          return choice ===this.answer
     }
 }
