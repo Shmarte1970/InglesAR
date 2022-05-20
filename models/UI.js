@@ -43,7 +43,7 @@ export class UI {
 
         const quizEndHTML = `
             <h1>Result</h1>
-            <h2>Your Score: ${score}</h2>
+            <h2>Your hits: ${score}</h2>
             `;
         
         const element = document.getElementById("quiz");
