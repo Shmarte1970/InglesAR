@@ -79,13 +79,13 @@ export const data = [
     },
 
     {
-        question:'S L E E P',
+        question:'B R E A K',
         choise:[
-            'slept',
-            'loss',
-            'sleep'
+            'broken',
+            'broke',
+            'broked'
         ],
-        answer: 'slept'
+        answer: 'broke'
 
     },
 
@@ -147,9 +147,9 @@ export const data = [
     {
         question:'P A Y',
         choise:[
-            'paid',
+            'pyment',
             'pading',
-            'payment'
+            'paid'
         ],
         answer: 'paid'
 
