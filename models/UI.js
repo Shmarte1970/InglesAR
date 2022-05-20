@@ -57,7 +57,11 @@ export class UI {
         const element = document.getElementById('progreso');
         element.innerHTML = `Question ${currentIndex} of ${total}`
 
+    }
 
+    showProcen(score){
+        const element = document.getElementById('porcentaje');
+        element.innerHTML = `Acert ${score}`
     }
 
 

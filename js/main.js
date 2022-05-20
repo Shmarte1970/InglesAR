@@ -21,6 +21,8 @@ const renderPage = (quiz, ui) => {
 
     ui.showProgress(quiz.questionIndex + 1 , quiz.questions.length);
 
+    ui.showProcen(quiz.score);
+
     }
 };
 
