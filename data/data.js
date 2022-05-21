@@ -273,7 +273,248 @@ export const data = [
         ],
         answer: 'gave'
 
+    },
+    {
+        question:'B E A T',
+        choise:[
+            'beaten',
+            'beating',
+            'beat'
+        ],
+        answer: 'beat'
+
+    },
+    {
+        question:'B E C O M E',
+        choise:[
+            'became',
+            'becoming',
+            'becomes'
+        ],
+        answer: 'became'
+
+    },
+    {
+        question:'H I T',
+        choise:[
+            'hits',
+            'hit',
+            'hitting'
+        ],
+        answer: 'hit'
+
+    },
+    {
+        question:'F A L L',
+        choise:[
+            'fell',
+            'falling',
+            'falls'
+        ],
+        answer: 'fell'
+
+    },
+    {
+        question:'T E L L',
+        choise:[
+            'told',
+            'tells',
+            'telling'
+        ],
+        answer: 'told'
+
+    },
+    {
+        question:'M A K E',
+        choise:[
+            'made',
+            'makeing',
+            'makes'
+        ],
+        answer: 'made'
+
+    },
+    {
+        question:'T A K E',
+        choise:[
+            'took',
+            'takes',
+            'taking'
+        ],
+        answer: 'took'
+
+    },
+    {
+        question:'R U N',
+        choise:[
+            'run',
+            'running',
+            'ran'
+        ],
+        answer: 'ran'
+
+    },
+    {
+        question:'H O L D',
+        choise:[
+            'held',
+            'holds',
+            'heldes'
+        ],
+        answer: 'held'
+
+    },
+    {
+        question:'Know',
+        choise:[
+            'knows',
+            'knew',
+            'knowing'
+        ],
+        answer: 'knew'
+
+    },
+    {
+        question:'L E A V E',
+        choise:[
+            'left',
+            'leave',
+            'leaving'
+        ],
+        answer: 'left'
+
+    },
+    {
+        question:'D R I V E',
+        choise:[
+            'drove',
+            'droves',
+            'drive'
+        ],
+        answer: 'drove'
+
+    },
+    {
+        question:'D R A W',
+        choise:[
+            'drew',
+            'drawing',
+            'draws'
+        ],
+        answer: 'drew'
+
+    },
+    {
+        question:'B E T',
+        choise:[
+            'bets',
+            'beating',
+            'bet'
+        ],
+        answer: 'bet'
+
+    },
+    {
+        question:'F E E L',
+        choise:[
+            'felt',
+            'feling',
+            'feel'
+        ],
+        answer: 'felt'
+
+    },
+    {
+        question:'P U T',
+        choise:[
+            'put',
+            'putting',
+            'puts'
+        ],
+        answer: 'put'
+
+    },
+    {
+        question:'B E G I N',
+        choise:[
+            'began',
+            'beganing',
+            'begans'
+        ],
+        answer: 'began'
+
+    },
+    {
+        question:'G R O W',
+        choise:[
+            'grew',
+            'grewing',
+            'grews'
+        ],
+        answer: 'grew'
+
+    },
+    {
+        question:'C O S T',
+        choise:[
+            'costing',
+            'cost',
+            'cust'
+        ],
+        answer: 'cost'
+
+    },
+    {
+        question:'H I D E',
+        choise:[
+            'hid',
+            'hide',
+            'hiden'
+        ],
+        answer: 'hid'
+
+    },
+    {
+        question:'U N D E R S T A N D',
+        choise:[
+            'understood',
+            'understod',
+            'understop'
+        ],
+        answer: 'understood'
+
+    },
+    {
+        question:'C H O O S E',
+        choise:[
+            'chose',
+            'chuse',
+            'choose'
+        ],
+        answer: 'chose'
+
+    },
+    {
+        question:'K E E P',
+        choise:[
+            'kept',
+            'keeps',
+            'keeping'
+        ],
+        answer: 'kept'
+
+    },
+    {
+        question:'F O R G I V E',
+        choise:[
+            'forgave',
+            'forgive',
+            'forgiving'
+        ],
+        answer: 'forgave'
+
     }
+    
 
 
 
