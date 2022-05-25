@@ -513,6 +513,45 @@ export const data = [
         ],
         answer: 'forgave'
 
+    },
+    {
+        question:'B E N D',
+        choise:[
+            'bent',
+            'bending',
+            'beens'
+        ],
+        answer: 'bent'
+
+    },
+    {
+        question:'W E A R',
+        choise:[
+            'wear',
+            'wire',
+            'wore'
+        ],
+        answer: 'wore'
+
+    },
+    {
+        question:'H E A R ',
+        choise:[
+            'heard',
+            'hear'
+        ],
+        answer: 'heard'
+
+    },
+    {
+        question:'H U R T',
+        choise:[
+            'hurt',
+            'hurting',
+            'hart'
+        ],
+        answer: 'hurt'
+
     }
     
 
