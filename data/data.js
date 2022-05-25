@@ -552,6 +552,256 @@ export const data = [
         ],
         answer: 'hurt'
 
+    },
+    {
+        question:'M E A N',
+        choise:[
+            'mean',
+            'meant',
+            'meanting'
+        ],
+        answer: 'meant'
+
+    },
+    {
+        question:'L A Y',
+        choise:[
+            'laid',
+            'lay',
+            'lais'
+        ],
+        answer: 'laid'
+
+    },
+    {
+        question:'C U T',
+        choise:[
+            'cut',
+            'cuting',
+            'cat'
+        ],
+        answer: 'cut'
+
+    },
+    {
+        question:'F I G H T',
+        choise:[
+            'fighting',
+            'fought',
+            'fight'
+        ],
+        answer: 'fought'
+
+    },
+    {
+        question:'B I T E',
+        choise:[
+            'bite',
+            'bit',
+            'biting'
+        ],
+        answer: 'bit'
+
+    },
+    {
+        question:'F I N D',
+        choise:[
+            'found',
+            'find'
+            
+        ],
+        answer: 'found'
+
+    },
+    {
+        question:'L E A D',
+        choise:[
+            'leading',
+            'lead',
+            'led'
+        ],
+        answer: 'led'
+
+    },
+    {
+        question:'L E N D',
+        choise:[
+            'lent',
+            'lenting',
+            'lens'
+        ],
+        answer: 'lent'
+
+    },
+    {
+        question:'B L E E D',
+        choise:[
+            'bled',
+            'bleding',
+            'bleds'
+        ],
+        answer: 'bled'
+
+    },
+    {
+        question:'S E L L',
+        choise:[
+            'sold',
+            'sell',
+            'selling'
+        ],
+        answer: 'sold'
+
+    },
+    {
+        question:'R I S E',
+        choise:[
+            'rose',
+            'rise',
+            'riising'
+        ],
+        answer: 'rose'
+
+    },
+    {
+        question:'F E E D',
+        choise:[
+            'fed',
+            'feed',
+            'feding'
+        ],
+        answer: 'fed'
+
+    },,
+    {
+        question:'B L O W',
+        choise:[
+            'blew',
+            'blow',
+            'blewed'
+        ],
+        answer: 'blew'
+
+    },
+    {
+        question:'C O M E',
+        choise:[
+            'came',
+            'come',
+            'comed'
+        ],
+        answer: 'came'
+
+    },
+    {
+        question:'D I G',
+        choise:[
+            'dug',
+            'dig',
+            'dign'
+        ],
+        answer: 'dug'
+
+    },
+    {
+        question:'B R E E D',
+        choise:[
+            'bred',
+            'breds',
+            'breding'
+        ],
+        answer: 'bred'
+
+    },
+    {
+        question:'F O R G E R',
+        choise:[
+            'forgot',
+            'for',
+            'forgoting'
+        ],
+        answer: 'forgot'
+
+    },
+    {
+        question:'B R I N D',
+        choise:[
+            'brought',
+            'bring',
+            'briting'
+        ],
+        answer: 'brought'
+
+    },
+    {
+        question:'S I T',
+        choise:[
+            'sat',
+            'sit',
+            'siting'
+        ],
+        answer: 'sat'
+
+    },
+    {
+        question:'F R E E Z E',
+        choise:[
+            'froze',
+            'freeze',
+            'frozes'
+        ],
+        answer: 'froze'
+
+    },
+    {
+        question:'T H I N K',
+        choise:[
+            'thinking',
+            'thought',
+            'think'
+        ],
+        answer: 'thought'
+
+    },
+    {
+        question:'B U I L d',
+        choise:[
+            'built',
+            'building',
+            'build'
+        ],
+        answer: 'built'
+
+    },
+    {
+        question:'T E A C H',
+        choise:[
+            'taught',
+            'teaching',
+            'teach'
+        ],
+        answer: 'taught'
+
+    },
+    {
+        question:'S P E N D',
+        choise:[
+            'spent',
+            'spend',
+            'speding'
+        ],
+        answer: 'spent'
+
+    },
+    {
+        question:'D R E A M',
+        choise:[
+            'dreamt',
+            'dreams',
+            
+        ],
+        answer: 'dreamt'
+
     }
     
 
