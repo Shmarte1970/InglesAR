@@ -672,7 +672,7 @@ export const data = [
         ],
         answer: 'fed'
 
-    },,
+    },
     {
         question:'B L O W',
         choise:[
