@@ -166,7 +166,7 @@ export const data = [
 
     },
     {
-        question:'M E E T (meet)',
+        question:'M E E T (Reunirse)',
         choise:[
             'meet',
             'met',
@@ -186,7 +186,7 @@ export const data = [
 
     },
      {
-        question:'P L A Y E D (jugó)',
+        question:'P L A Y E D (Jugar)',
         choise:[
             'play',
             'played',
@@ -216,7 +216,7 @@ export const data = [
 
     },
     {
-        question:'J O I N S (Uniones)',
+        question:'J O I N S (Unir)',
         choise:[
             'join',
             'joined',
@@ -226,7 +226,7 @@ export const data = [
 
     },
     {
-        question:'L I V E (En vivo)',
+        question:'L I V E (Vivir)',
         choise:[
             'living',
             'lived',
@@ -265,7 +265,7 @@ export const data = [
 
     },
     {
-        question:'G I V E S (da)',
+        question:'G I V E S (Dar)',
         choise:[
             'gave',
             'giving',
@@ -405,13 +405,13 @@ export const data = [
 
     },
     {
-        question:'B E T',
+        question:'B E T (Apostar)',
         choise:[
             'bets',
             'beating',
             'bet'
         ],
-        answer: 'bet (Apuesta)'
+        answer: 'bet '
 
     },
     {
@@ -455,7 +455,7 @@ export const data = [
 
     },
     {
-        question:'C O S T (Coste)',
+        question:'C O S T (Costar)',
         choise:[
             'costing',
             'cost',
@@ -525,7 +525,7 @@ export const data = [
 
     },
     {
-        question:'W E A R (Puesto)',
+        question:'W E A R (Llevar Puesto)',
         choise:[
             'wear',
             'wire',
@@ -584,7 +584,7 @@ export const data = [
 
     },
     {
-        question:'F I G H T (Lucha)',
+        question:'F I G H T (Luchar)',
         choise:[
             'fighting',
             'fought',
