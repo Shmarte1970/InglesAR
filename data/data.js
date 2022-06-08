@@ -355,7 +355,7 @@ export const data = [
 
     },
     {
-        question:'H O L D',
+        question:'H O L D (Mantener)',
         choise:[
             'held',
             'holds',
@@ -365,7 +365,7 @@ export const data = [
 
     },
     {
-        question:'Know',
+        question:'Know (Saber)',
         choise:[
             'knows',
             'knew',
@@ -375,7 +375,7 @@ export const data = [
 
     },
     {
-        question:'L E A V E',
+        question:'L E A V E (Abandonar)',
         choise:[
             'left',
             'leave',
@@ -385,7 +385,7 @@ export const data = [
 
     },
     {
-        question:'D R I V E',
+        question:'D R I V E (Conducir)',
         choise:[
             'drove',
             'droves',
@@ -395,7 +395,7 @@ export const data = [
 
     },
     {
-        question:'D R A W',
+        question:'D R A W (Dibujar)',
         choise:[
             'drew',
             'drawing',
@@ -411,11 +411,11 @@ export const data = [
             'beating',
             'bet'
         ],
-        answer: 'bet'
+        answer: 'bet (Apuesta)'
 
     },
     {
-        question:'F E E L',
+        question:'F E E L (Sentir)',
         choise:[
             'felt',
             'feling',
@@ -425,7 +425,7 @@ export const data = [
 
     },
     {
-        question:'P U T',
+        question:'P U T (Poner)',
         choise:[
             'put',
             'putting',
@@ -435,7 +435,7 @@ export const data = [
 
     },
     {
-        question:'B E G I N',
+        question:'B E G I N (Empezar)',
         choise:[
             'began',
             'beganing',
@@ -445,7 +445,7 @@ export const data = [
 
     },
     {
-        question:'G R O W',
+        question:'G R O W (Crecer)',
         choise:[
             'grew',
             'grewing',
@@ -455,7 +455,7 @@ export const data = [
 
     },
     {
-        question:'C O S T',
+        question:'C O S T (Coste)',
         choise:[
             'costing',
             'cost',
@@ -465,7 +465,7 @@ export const data = [
 
     },
     {
-        question:'H I D E',
+        question:'H I D E (Ocultar)',
         choise:[
             'hid',
             'hide',
@@ -475,7 +475,7 @@ export const data = [
 
     },
     {
-        question:'U N D E R S T A N D',
+        question:'U N D E R S T A N D (Entender)',
         choise:[
             'understood',
             'understod',
@@ -485,7 +485,7 @@ export const data = [
 
     },
     {
-        question:'C H O O S E',
+        question:'C H O O S E (Elegir)',
         choise:[
             'chose',
             'chuse',
@@ -495,7 +495,7 @@ export const data = [
 
     },
     {
-        question:'K E E P',
+        question:'K E E P (Mantener)',
         choise:[
             'kept',
             'keeps',
@@ -505,7 +505,7 @@ export const data = [
 
     },
     {
-        question:'F O R G I V E',
+        question:'F O R G I V E (Perdonar)',
         choise:[
             'forgave',
             'forgive',
@@ -515,7 +515,7 @@ export const data = [
 
     },
     {
-        question:'B E N D',
+        question:'B E N D (Doblar)',
         choise:[
             'bent',
             'bending',
@@ -525,7 +525,7 @@ export const data = [
 
     },
     {
-        question:'W E A R',
+        question:'W E A R (Puesto)',
         choise:[
             'wear',
             'wire',
@@ -535,7 +535,7 @@ export const data = [
 
     },
     {
-        question:'H E A R ',
+        question:'H E A R (Oir)',
         choise:[
             'heard',
             'hear'
@@ -544,7 +544,7 @@ export const data = [
 
     },
     {
-        question:'H U R T',
+        question:'H U R T (Herida)',
         choise:[
             'hurt',
             'hurting',
@@ -554,7 +554,7 @@ export const data = [
 
     },
     {
-        question:'M E A N',
+        question:'M E A N (Media)',
         choise:[
             'mean',
             'meant',
@@ -564,7 +564,7 @@ export const data = [
 
     },
     {
-        question:'L A Y',
+        question:'L A Y (Poner)',
         choise:[
             'laid',
             'lay',
@@ -574,7 +574,7 @@ export const data = [
 
     },
     {
-        question:'C U T',
+        question:'C U T (Corte)',
         choise:[
             'cut',
             'cuting',
@@ -584,7 +584,7 @@ export const data = [
 
     },
     {
-        question:'F I G H T',
+        question:'F I G H T (Lucha)',
         choise:[
             'fighting',
             'fought',
@@ -594,7 +594,7 @@ export const data = [
 
     },
     {
-        question:'B I T E',
+        question:'B I T E (Morder)',
         choise:[
             'bite',
             'bit',
@@ -604,7 +604,7 @@ export const data = [
 
     },
     {
-        question:'F I N D',
+        question:'F I N D (Encontrar)',
         choise:[
             'found',
             'find'
@@ -614,7 +614,7 @@ export const data = [
 
     },
     {
-        question:'L E A D',
+        question:'L E A D (Guiar)',
         choise:[
             'leading',
             'lead',
@@ -624,7 +624,7 @@ export const data = [
 
     },
     {
-        question:'L E N D',
+        question:'L E N D (Prestar)',
         choise:[
             'lent',
             'lenting',
@@ -634,7 +634,7 @@ export const data = [
 
     },
     {
-        question:'B L E E D',
+        question:'B L E E D (Sangrar)',
         choise:[
             'bled',
             'bleding',
@@ -644,7 +644,7 @@ export const data = [
 
     },
     {
-        question:'S E L L',
+        question:'S E L L (Vender)',
         choise:[
             'sold',
             'sell',
@@ -654,7 +654,7 @@ export const data = [
 
     },
     {
-        question:'R I S E',
+        question:'R I S E (Elevar)',
         choise:[
             'rose',
             'rise',
@@ -664,7 +664,7 @@ export const data = [
 
     },
     {
-        question:'F E E D',
+        question:'F E E D (Alimentar)',
         choise:[
             'fed',
             'feed',
@@ -674,7 +674,7 @@ export const data = [
 
     },
     {
-        question:'B L O W',
+        question:'B L O W (Explotar)',
         choise:[
             'blew',
             'blow',
@@ -684,7 +684,7 @@ export const data = [
 
     },
     {
-        question:'C O M E',
+        question:'C O M E (Venir)',
         choise:[
             'came',
             'come',
@@ -694,7 +694,7 @@ export const data = [
 
     },
     {
-        question:'D I G',
+        question:'D I G (Dirigir)',
         choise:[
             'dug',
             'dig',
@@ -704,7 +704,7 @@ export const data = [
 
     },
     {
-        question:'B R E E D',
+        question:'B R E E D (Criar)',
         choise:[
             'bred',
             'breds',
@@ -714,7 +714,7 @@ export const data = [
 
     },
     {
-        question:'F O R G E R',
+        question:'F O R G E R (Clasificar)',
         choise:[
             'forgot',
             'for',
@@ -724,7 +724,7 @@ export const data = [
 
     },
     {
-        question:'B R I N D',
+        question:'B R I N D (Traer)',
         choise:[
             'brought',
             'bring',
@@ -733,8 +733,8 @@ export const data = [
         answer: 'brought'
 
     },
-    {
-        question:'S I T',
+    { 
+        question:'S I T (Sentar)',
         choise:[
             'sat',
             'sit',
@@ -744,7 +744,7 @@ export const data = [
 
     },
     {
-        question:'F R E E Z E',
+        question:'F R E E Z E (Congelar)',
         choise:[
             'froze',
             'freeze',
@@ -754,7 +754,7 @@ export const data = [
 
     },
     {
-        question:'T H I N K',
+        question:'T H I N K (Pensar)',
         choise:[
             'thinking',
             'thought',
@@ -764,7 +764,7 @@ export const data = [
 
     },
     {
-        question:'B U I L d',
+        question:'B U I L d (Construir)',
         choise:[
             'built',
             'building',
@@ -774,7 +774,7 @@ export const data = [
 
     },
     {
-        question:'T E A C H',
+        question:'T E A C H (Enseñar) ',
         choise:[
             'taught',
             'teaching',
@@ -784,7 +784,7 @@ export const data = [
 
     },
     {
-        question:'S P E N D',
+        question:'S P E N D (Gastar)',
         choise:[
             'spent',
             'spend',
@@ -794,7 +794,7 @@ export const data = [
 
     },
     {
-        question:'D R E A M',
+        question:'D R E A M (Soñar)',
         choise:[
             'dreamt',
             'dreams',
