@@ -3,7 +3,7 @@
 export const data = [
 
     {
-        question:'E A T',
+        question:'E A T  (Comer)',
         choise:[
             'ate',
             'feed',
@@ -14,7 +14,7 @@ export const data = [
     },
 
     {
-        question:'L O S E',
+        question:'L O S E (Perder)',
         choise:[
             'lost',
             'lose',
@@ -25,7 +25,7 @@ export const data = [
     },
 
     {
-        question:'H A V E',
+        question:'H A V E (Tener)',
         choise:[
             'have',
             'haven',
@@ -35,7 +35,7 @@ export const data = [
 
     },
     {
-        question:'S P E A K',
+        question:'S P E A K (Hablar)',
         choise:[
             'speaking',
             'spoke',
@@ -46,7 +46,7 @@ export const data = [
     },
 
     {
-        question:'S L E E P',
+        question:'S L E E P (Dormir)',
         choise:[
             'slept',
             'loss',
@@ -57,7 +57,7 @@ export const data = [
     },
 
     {
-        question:'D R I N K',
+        question:'D R I N K (Beber)',
         choise:[
             'drinking',
             'drinked',
@@ -68,7 +68,7 @@ export const data = [
     },
 
     {
-        question:'S A Y',
+        question:'S A Y (Decir)',
         choise:[
             'see',
             'saying',
@@ -79,7 +79,7 @@ export const data = [
     },
 
     {
-        question:'B R E A K',
+        question:'B R E A K (Romper)',
         choise:[
             'broken',
             'broke',
@@ -90,7 +90,7 @@ export const data = [
     },
 
     {
-        question:'W R I T E',
+        question:'W R I T E (Escribe)',
         choise:[
             'wrote',
             'write',
@@ -101,7 +101,7 @@ export const data = [
     },
 
     {
-        question:'G O',
+        question:'G O (Vamos)',
         choise:[
             'going',
             'went',
@@ -112,7 +112,7 @@ export const data = [
     },
 
     {
-        question:'G E T',
+        question:'G E T (Obtener)',
         choise:[
             'got',
             'goted',
@@ -123,7 +123,7 @@ export const data = [
     },
 
     {
-        question:'F L Y',
+        question:'F L Y (Volar)',
         choise:[
             'flew',
             'fling',
@@ -134,7 +134,7 @@ export const data = [
     },
 
     {
-        question:'D O',
+        question:'D O (Hacer)',
         choise:[
             'did',
             'does',
@@ -145,7 +145,7 @@ export const data = [
     },
 
     {
-        question:'P A Y',
+        question:'P A Y (Pagar)',
         choise:[
             'pyment',
             'pading',
@@ -156,7 +156,7 @@ export const data = [
     },
 
     {
-        question:'R E A D',
+        question:'R E A D (Leer)',
         choise:[
             'read',
             'reading',
@@ -166,7 +166,7 @@ export const data = [
 
     },
     {
-        question:'M E E T',
+        question:'M E E T (meet)',
         choise:[
             'meet',
             'met',
@@ -176,7 +176,7 @@ export const data = [
 
     },
     {
-        question:'W I N',
+        question:'W I N (Victoria)',
         choise:[
             'won',
             'win',
@@ -186,7 +186,7 @@ export const data = [
 
     },
      {
-        question:'P L A Y E D',
+        question:'P L A Y E D (jugó)',
         choise:[
             'play',
             'played',
@@ -196,7 +196,7 @@ export const data = [
 
     },
     {
-        question:'B U Y',
+        question:'B U Y (Comprar)',
         choise:[
             'bought',
             'buy',
@@ -206,7 +206,7 @@ export const data = [
 
     },
     {
-        question:'C A T C H',
+        question:'C A T C H (Capturar)',
         choise:[
             'catching',
             'caught',
@@ -216,7 +216,7 @@ export const data = [
 
     },
     {
-        question:'J O I N S',
+        question:'J O I N S (Uniones)',
         choise:[
             'join',
             'joined',
@@ -226,7 +226,7 @@ export const data = [
 
     },
     {
-        question:'L I V E',
+        question:'L I V E (En vivo)',
         choise:[
             'living',
             'lived',
@@ -236,7 +236,7 @@ export const data = [
 
     }, 
     {
-        question:'A R R I V E',
+        question:'A R R I V E (Llegar)',
         choise:[
             'arrived',
             'to arrive'
@@ -245,7 +245,7 @@ export const data = [
 
     },
     {
-        question:'rain',
+        question:'rain (Lluvia)',
         choise:[
             'rained',
             'to rain'
@@ -255,7 +255,7 @@ export const data = [
 
     },
     {
-        question:'walks',
+        question:'walks (Camina)',
         choise:[
             'walked',
             'walking'
@@ -265,7 +265,7 @@ export const data = [
 
     },
     {
-        question:'G I V E S',
+        question:'G I V E S (da)',
         choise:[
             'gave',
             'giving',
@@ -275,7 +275,7 @@ export const data = [
 
     },
     {
-        question:'B E A T',
+        question:'B E A T (Derrotar)',
         choise:[
             'beaten',
             'beating',
@@ -285,7 +285,7 @@ export const data = [
 
     },
     {
-        question:'B E C O M E',
+        question:'B E C O M E (Convertirse en)',
         choise:[
             'became',
             'becoming',
@@ -295,7 +295,7 @@ export const data = [
 
     },
     {
-        question:'H I T',
+        question:'H I T (Pegar)',
         choise:[
             'hits',
             'hit',
@@ -305,7 +305,7 @@ export const data = [
 
     },
     {
-        question:'F A L L',
+        question:'F A L L (Caer)',
         choise:[
             'fell',
             'falling',
@@ -315,7 +315,7 @@ export const data = [
 
     },
     {
-        question:'T E L L',
+        question:'T E L L (Decir)',
         choise:[
             'told',
             'tells',
@@ -325,7 +325,7 @@ export const data = [
 
     },
     {
-        question:'M A K E',
+        question:'M A K E (Hacer)',
         choise:[
             'made',
             'makeing',
@@ -335,7 +335,7 @@ export const data = [
 
     },
     {
-        question:'T A K E',
+        question:'T A K E (Tomar)',
         choise:[
             'took',
             'takes',
@@ -345,7 +345,7 @@ export const data = [
 
     },
     {
-        question:'R U N',
+        question:'R U N (Correr)',
         choise:[
             'run',
             'running',
