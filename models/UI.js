@@ -43,7 +43,7 @@ export class UI {
 
         const quizEndHTML = `
             <h1>Result</h1>
-            <h2>Your hits: ${score}</h2>
+            <h2>Your hits: ${score}</h2>         
             `;
         
         const element = document.getElementById("quiz");
@@ -62,6 +62,14 @@ export class UI {
     showProcen(score){
         const element = document.getElementById('porcentaje');
         element.innerHTML = `Acert ${score}`
+  
+        
+    }
+
+    showFailure(myFailure){
+        const element = document.getElementById
+        ('fallos');
+        element.innerHTML = `Failure ${myFailure}`
     }
 
 

@@ -6,6 +6,8 @@ export class Quiz{
 
     questionIndex = 0
     score = 0
+    myFailure = Array()
+
 
     /**
      * 
@@ -35,8 +37,10 @@ export class Quiz{
 
         if (this.getQuestionIndex().correctAnswer(answer)) {
             this.score++
+        }else{
+            this.myFailure.push(answer)
+            console.log(this.myFailure)
         }
-
 
         this.questionIndex++
     }
