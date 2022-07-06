@@ -75,7 +75,7 @@ section{
 
     section{    
         left: 10px;
-        top: 25px; ;
+        top: 25px; 
     }
 
 }
@@ -106,7 +106,7 @@ section{
 
     li a:hover, li a.active{
         background:none;
-        color:red;
+        color:rgb(234, 84, 84);
     }
 
     #check:checked ~ ul {
@@ -114,8 +114,14 @@ section{
     }
 
     section{    
-        display:none;
-        
+     display:contents; 
+     
+    }
+
+    .fondo{
+        padding:150px 25%;
+        width:200px;
+        height:200px;
     }
 
 }
